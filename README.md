@@ -1,6 +1,6 @@
-# Superstore EDA Project
+# 📊 Superstore EDA Project
 
-## 📊 Project Overview
+## 🧾 Project Overview
 This project performs Exploratory Data Analysis (EDA) on the Superstore dataset to understand sales performance, profit trends, and customer behavior.
 
 ## 🛠 Tools Used
@@ -11,20 +11,18 @@ This project performs Exploratory Data Analysis (EDA) on the Superstore dataset 
 - Seaborn
 
 ## 📈 Key Insights
-- Technology category generates highest sales and profit
-- Discounts negatively impact profitability
-- Western region contributes most to sales
-- Sales show consistent growth over time
+- Technology category generates highest sales and profit  
+- Discounts negatively impact profitability  
+- Western region contributes most to sales  
+- Sales show steady growth over time  
 
-## 📁 Files
-- Pramod_superstore_EDA.ipynb
-- Pramod_superstore_EDA.html
-- superstore.csv
+## 📂 Files
+- Pramod_Superstore_EDA.ipynb  
+- Pramod_Superstore_EDA.html  
+- superstore.csv  
 
-## 🚀 How to Run
-1. Download dataset
-2. Open notebook in Jupyter
-3. Run all cells
+## 🌐 View Project
+Open the HTML file to view the complete analysis.
 
 ## 👨‍💻 Author
-Pramodkumar 
+Pramod
